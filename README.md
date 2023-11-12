@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1ZJ7aInkIv-B-N6CXlu62OM1g-g0PrS8l -
 
 Download to a file called pwnagotchicopy using filezilla copy to pwnagotchi in /usr/local/lib/python3.7/dist-packages/pwnagotchi overwrite pwnagotchi file notice if pwnagotchi isn't there reboot and check again. 
 
-tFe following is a toml file I found at evilsocket 
+The following is a toml file I found at evilsocket 
 
 make sure to set to waveshare_v3 
 
