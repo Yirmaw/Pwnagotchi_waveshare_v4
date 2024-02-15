@@ -26,5 +26,5 @@ toml file: found here:
 
 https://github.com/evilsocket/pwnagotchi/blob/master/pwnagotchi/defaults.toml
 
-It should be noted that I do not encourage breaking the law, it is recommended that you only deploy this in a controlled environment within which you have the consent of the network owners.
+Nothing here is original, its aim is to streamline the process for myself
 
